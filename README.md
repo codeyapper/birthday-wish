@@ -15,7 +15,7 @@ The design relies on a soft-vintage, deeply comforting color scheme:
 
 ##  How It Works
 1. **The Invitation:** The user arrives to a quiet, starry dark screen with a dashed envelope sealed with a tiny sketch flower. A prompt simply asks: *“Open? Yes / No”*.
-2. **The Playful "No" Button:** If they try to click "No"—well, they can't! The button playfully teleports away whenever a cursor gets close, ensuring they only choose celebration.
+2. **The Playful "No" Button:** If they try to click "No" well, they can't. The button playfully teleports away whenever a cursor gets close, ensuring they only choose celebration.
 3. **The Reveal:** Clicking "Yes" smoothly transitions into a framed birthday card featuring a hand-drawn slice of cake and a flickering candle flame.
 
 ##  Built With
