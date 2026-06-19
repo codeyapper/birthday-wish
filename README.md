@@ -24,7 +24,7 @@ The design relies on a soft-vintage, deeply comforting color scheme:
 * **Inline SVGs** for all the custom star, spiral, flower, and cake illustrations (no heavy external images required!).
 * **Vanilla JavaScript** to handle the screen transition and the elusive button logic.
 
-## 🎈 Running it Locally
+##  Running it Locally
 If you want to view it or tweak it on your own machine:
 1. Download or copy the `index.html` file.
 2. Double-click it to open it instantly in any web browser. 
